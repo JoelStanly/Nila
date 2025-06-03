@@ -1,0 +1,27 @@
+{
+  "new-note-folder": "Notes",
+  "new-note-template": "Tasks/Notes Template.md",
+  "show-checkboxes": false,
+  "move-tags": true,
+  "tag-colors": [
+    {
+      "tagKey": "#springboot",
+      "color": "rgba(4, 255, 0, 1)",
+      "backgroundColor": "rgba(28, 255, 0, 0.1)"
+    },
+    {
+      "tagKey": "#python",
+      "color": "rgba(0, 224, 255, 1)",
+      "backgroundColor": "rgba(0, 79, 255, 0.1)"
+    }
+  ],
+  "move-dates": true,
+  "date-colors": [],
+  "tag-sort": [
+    {
+      "tag": ""
+    }
+  ],
+  "inline-metadata-position": "metadata-table",
+  "move-task-metadata": true
+}
