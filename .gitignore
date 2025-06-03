@@ -1,0 +1,20 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Obsidian cache and workspace settings
+.obsidian/workspace.json
+.obsidian/appearance.json
+.obsidian/app.json
+
+# Optional: ignore plugin caches (you can include configs but not local plugin builds)
+.obsidian/plugins/*/node_modules/
+.obsidian/plugins/*/dist/
+.obsidian/plugins/*/temp/
+
+# Ignore OS or IDE files
+*.log
+.idea/
+.vscode/
+*.bak
+a
